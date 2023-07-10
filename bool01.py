@@ -1,5 +1,9 @@
 def main(a,b):
-    """
+    mantiq=(a==b)
+    return mantiq
+print(main(1,1))
+
+"""
     Check the following statement "they are equal"
     Args:
         a: int
@@ -8,4 +12,3 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return 
